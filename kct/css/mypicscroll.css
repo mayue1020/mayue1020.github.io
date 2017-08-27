@@ -1,7 +1,8 @@
  .bigbox {
-	width:600px;
-	height:600px;
-	margin:20px auto;
+	width:360px;
+	height:500px;
+	float: left;
+	margin-left:80px;
 	position:relative;
 	/*background:linear-gradient(to bottom,#00a8ff,#cccccc);*/
 }
