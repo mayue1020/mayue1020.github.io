@@ -260,7 +260,8 @@ li a.active{
 
 /*service area*/
 .service{
-	background: url(../img/pattern.jpg);
+	/*background: url(../img/pattern.jpg);*/
+	background-color: cadetblue;
 	margin-top: 40px;
 }
 .service h2{
