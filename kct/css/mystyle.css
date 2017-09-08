@@ -15,20 +15,27 @@
 #contact-pics {
 	width: auto;
 	height: auto;
-	float: left;
+
+	/*float: right;*/
 	margin-top:3%;
 	margin-left:7%;
 	margin-right: 7%;
 	margin-bottom: 3%;
+
+	
 	position: relative;
 	text-align: center;
 	/*background:linear-gradient(to bottom,#00a8ff,#cccccc);*/
 	/*background-color: black;*/
 }
 .contact-pic{
-	height: 550px;
-	width: 380px;
-	margin: 10px;
+	/*width: 380px;
+	height: 550px;*/
+	width: 30%;
+	position: relative;
+	/*float:left;*/
+	/*margin: 10px;*/
+	/*text-align: center;*/
 	/*padding: 10px;*/
 	/*background-color: green;*/
 
